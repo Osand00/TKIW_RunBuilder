@@ -64,6 +64,7 @@ In the below table row 1 is a prophecy wave and will be guranteed to spawn the u
 when the prophecy event is triggered the blue required wave will all be randomly selected from unit groups in the range 2-6 (req unit group(s) column)
 The yellow waves in the prophecy even will be randomly selected from unit groups in the range 2-6 (the first extra unit group(s) column)
 Finally 2 red waves will be randomly selected from unit groups in the range 7-13 (the second extra unit group(s) column)
+
 ![propecy example](readMeImages/prophecyExampleTable.png)
 
 I am unsure if the selection is based on all 3 rows after a prophecy or just the first as the base files that I have looked at have the same unit groups in all 3 rows after a prophecy. I have only tested with the same unit groups in all 3 rows after a prophecy. I will update the readme when I have more information.
